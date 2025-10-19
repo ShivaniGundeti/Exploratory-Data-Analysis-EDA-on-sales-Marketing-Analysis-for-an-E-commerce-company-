@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-EDA-on-sales-Marketing-Analysis-for-an-E-commerce-company-
+This commit adds the complete Exploratory Data Analysis (EDA) project on a real-world e-commerce sales dataset.  Contents included: - Task 1.ipynb: Fully functional Jupyter Notebook performing EDA. - sales_data.csv: Mock dataset with 1000 records for sales, profit, discounts, and regions. - README.md: Project overview, dataset description.
